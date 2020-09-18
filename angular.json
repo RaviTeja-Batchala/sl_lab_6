@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sl-lab"
+    }
+  },
+  "defaultProject": "sl-lab",
+  "cli": {
+    "analytics": false
+  }
 }
